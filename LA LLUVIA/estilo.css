@@ -1,0 +1,30 @@
+body{
+    background-image: url(imagenes/water-drops.jpg);
+}
+
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: white;
+    text-shadow: 3px 3px black;
+    font-style: bold;
+}
+
+div{
+    background-image: url();
+    text-align: center;
+    border-style: solid;
+    border-color:blueviolet;
+    border-radius: 60px;
+    border-width: 5px;
+    width: 50%;
+    padding: 5%;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(imagenes/raindrops-window-bw2.jpg);
+    color:white;
+    border-color:rgb(165, 227, 241);
+    margin: auto;
+    text-shadow: 5px 5px 5px black;
+}
